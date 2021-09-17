@@ -7,6 +7,7 @@ public class GitTerst {
         System.out.println("本地dev push上去");
         System.out.println("你好");
         System.out.println("master 第一次更新");
+        System.out.println("dev 第一次更新");
     }
 }
 
